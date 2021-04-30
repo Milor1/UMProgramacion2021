@@ -1,0 +1,214 @@
+GLOSARIO DE TÉRMINOS 
+
+SWITCH: Es un aparato que permite la conexión entre dispositivos, para la comunicación entre estas mismas. 
+
+HUB: 	El HUB es la forma inteligente hablando de la red, que es comparado con el Switch, pero la diferencia de que es mediante una red,  el cual podemos conectar varios aparatos entre sí para la comunicación,
+
+ROUTER : Es el aparato que nos provee acceso a las red local, a internet mediante una forma inalámbrica mediante cualquier aparato tecnológico ( tablet, impresoras, discos de almacenamientos, etc.. )
+
+AP: 
+
+PROXY: Es la parte que sirve como intermedio de una forma entre un objeto o dispositivo y una servicio o red.
+
+FIREWALLl: Es un sistema que resguarda o protege a nuestra red privada, de usuarios o intrusos que tengan malas intenciones, como un virus. 
+
+RACK: Es una armario para guardas dispositivos tecnológicos, que sean importante para el uso personal y privado. 
+
+UPS: Es un dispositivo de almacenador de energía, para uso durante un apagón eléctrico en un tiempo estimado a su capacidad.
+
+SAN: Es un área de almacenamiento que utilizan algunas empresas para obtener un alto rendimiento, y también se puede decir que consta de un sistema de seguridad y recuperación de datos en un caso desastroso. 
+
+BACKUP: En simple palabras es una copia de seguridad de los datos originales, en caso de una perdida que pueda suceder. 
+
+RESTORE: Es un sistema para restaurar ficheros que se usa en Microsoft  ( MS-DOS  ) 
+
+CENTRO DE CABLEADO: Es un lugar para la conexión de dispositivos en una red local. 
+
+CENTRO DE DATOS: Es el lugar o espacio donde se procesa la información mediante unos recursos necesarios para este proceso,en una organización.
+
+PLANTA TELEFÓNICA: Es una central que lo que permite es la comunicación, interconexión de diferentes grupos de teléfonos. 
+
+ETHERNET: Es una red local usada en las computadoras.
+
+TARJETA CONTROLADORA: Es una pieza que se utiliza como interfaz entre la placa base y los otros componentes del computador.  
+
+UTP: Es un cable que consiste en grupos de hilos que están entrelazados helicoidal, que conforman una antena simple. 
+
+STP: Es un sistema que se encarga de administrar y reconocer bucles de lugares de redes. 
+
+CABLE CRUZADO: Es un cable que conecta dos dispositivos similares mediante un cable modificado llamado “crosslink”. 
+
+CABLE COAXIAL: Es un cable que consiste en transportar corrientes eléctricas de alta frecuencia, que poseen dos conductores, uno central llamado (núcleo) y otro externo llamado. (malla)
+
+FIBRA OPTICA: las fibras se utilizan para transmitir luz y la transmisión en largas distancias y no les hace efecto la energía electromagnética. 
+
+CABLEADO ESTRUCTURADO: Es un sistema de cable, formado por un par trenzado protegidos por STP o UTP.
+
+HOST: Se refiere a una serie de dispositivos (tablests, moviles etc.), que usan un servidores que poseen anfitriones los cuales administran una red local que están conectados a la red. 
+
+HOSTING: Es un servicio de alojamiento en guardar información (videos, imágenes, etc.) en un sitio web. 
+
+DNS: Es un servidor que consiste en dar una respuesta a varias peticiones de usuarios o clientes en el ámbito del internet.
+
+DOMINIO: El propósito del dominio en internet es dar un nombre a las direcciones web para una mayor facilidad en la búsqueda de un usuario en el navegador web, ejemplo 
+http://172.217.10.110/, en vez de http://google.com)
+
+MAC: Es una dirección que se utiliza en 48 bits para las computadoras.
+
+PROTOCOLO ARP: Es un protocolo de comunicaciones en la capa de datos, para resolver la dirección de IP de una dirección hardware. 
+
+PROTOCOLO TCP Y UDP: Es un protocolo que transporta datagramas,a partir de la conexión de dos maquinas.
+
+IP: Se emplea para el envió de información mediante una red, y hace referencia al equipo de origen. 
+
+IPv4: Es una versión del internet implementada en 1983. 
+
+IPv6: Es una versión mas sofisticada para arreglar problemas existentes en la anterior versión. 
+
+TCP: Es un protocolo el cual consiste en la comunicación de computadoras mediante una red local.
+
+PING ( ICMP): Es un programa que sirve para comprobar el estado de la comunicación y para medir el tiempo remoto que tarda en comunicarse dos puntos.
+
+IPCONFIG / IFCONFIG: Es la aplicación que configura los valores de IP/ TCP.
+Se utiliza para administrar el sistema para consultar, controlar en una red. 
+
+MODELO TCP/ IP: Es un protocolo que fue implementado en la red ARPANET, en el cual consiste permitir que un equipo pueda comunicarse en una red. 
+
+ANCHO DE BANDA: Se refiere a la capacidad de medida de datos y recursos de comunicación.
+
+TOPOLOGIA  DE REDES: Es un mapa físico o lógico, el cual representa el intercambio de datos.
+
+PROTOCOLO ENRUTADO: Es el establecimiento de direcciones en una red.
+
+PROTOCOLO ENRUTAMIENTO: Es la construcción de tablas de las direcciones en la red para identificarlas.
+
+INTERNET: Es un servicio de protocolos que ofrece una diversidad de recursos en un sitio web o cualquier plataforma.  
+
+LAN/MAN/WAN: 
+    • Permite la interacción de múltiples equipos para compartir datos.
+    • Consiste en lo mismo pero hay una pequela diferencia es que permite compartir mayor recursos que WAN 
+    • Se utiliza para abarcar mucho terreno por sus nodos que están separados.
+
+WiFi: Es usado para la interconexión inalámbrica de dispositivos electrónicos.
+
+ALGORITMO: Es un conjunto de instrucciones para solucionar un problema. 
+
+VARIABLE: Es el valor que puede tomar una cantidad descrita.
+
+CONSTANTE: Es el valor que no puede ser alterado o cambiado.
+
+PRUEBA DE ESCRITORIO: Consiste en dar valores a un flujo del programa para comprobar si al final el resultado es el acertado.
+
+CONDICIONAL IF: Se usa para tomar decisiones en operación lógica. 
+
+ESTRUCTURA FOR: Es una sentencia para la iniciar el bucle. 
+
+ESTRUCTURA DO WHILE:  Es un control repetitivo, se caracteriza en ejecutar las instrucciones sin evaluar la expresión. 
+
+ESTRUCTURA CASO: Con esto podemos evaluar una variable y realizar acciones.
+
+PSEINT: Es un programa para la instrucción en el mundo de la programación.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Citas bibliográficas
+
+    • https://www.significados.com/switch/
+    • https://www.profesionalreview.com/2019/02/12/hub-o-concentrador/
+    • https://es.wikipedia.org/wiki/Router
+
+    • https://www.welivesecurity.com/la-es/2020/01/02/que-es-proxy-para-que-sirve/
+    • https://idgrup.com/firewall-que-es-y-como-funciona/#:~:text=Un%20firewall%2C%20tambi%C3%A9n%20llamado%20cortafuegos,ordenadores%20de%20una%20misma%20red.
+    • https://www.dns-system.es/que_es_un_armario_rack.php
+    • https://es.wikipedia.org/wiki/Sistema_de_alimentaci%C3%B3n_ininterrumpida#:~:text=Sistemas%20de%20alimentaci%C3%B3n%20ininterrumpida%20(SAI,los%20dispositivos%20que%20tenga%20conectados.
+    • https://www.netapp.com/es/data-storage/what-is-san-storage-area-network/
+    • https://es.wikipedia.org/wiki/Copia_de_seguridad
+    • https://www.lawebdelprogramador.com/diccionario/Restore/#:~:text=Es%20una%20orden%20que%20en,con%20la%20orden%20back%2Dup.
+    • http://redesinformaticassena.blogspot.com/2009/10/que-elementos-contienen-el-centro-de.html
+    • https://es.wikipedia.org/wiki/Centro_de_procesamiento_de_datos
+    • https://www.google.com/search?q=planta+telefonica&rlz=1C1CHBF_esCO916CO917&oq=planta+telefonica+&aqs=chrome..69i57j0l7.10409j0j7&sourceid=chrome&ie=UTF-8
+    • https://es.wikipedia.org/wiki/Ethernet#:~:text=Ethernet%20(pronunciado%20%2F%CB%88i%CB%90%CE%B8%C9%99rn%C9%9Bt%2F%20en,(ether%2C%20en%20ingl%C3%A9s).
+    • https://techlib.net/definition/controllercard.html#:~:text=La%20tarjeta%20controladora%2C%20o%20simplemente,ratones%20requieren%20controladores%20para%20funcionar.
+    • https://es.wikipedia.org/wiki/Cable_de_par_trenzado#:~:text=Unshielded%20twisted%20pair%20(UTP)%20o,diferentes%20tecnolog%C3%ADas%20de%20redes%20locales.&text=Se%20utiliza%20en%20redes%20de,caracter%C3%ADstica%20es%20de%20150%20ohmios.
+    • https://cl0udswxsequre.wordpress.com/2015/03/10/que-es-stp-y-para-que-sirve/#:~:text=Pero%20en%20el%20%C3%A1mbitos%20de,la%20redundancia%20en%20la%20misma.
+    • https://en.wikipedia.org/wiki/Crossover_cable
+    • https://es.wikipedia.org/wiki/Cable_coaxial#:~:text=El%20cable%20coaxial%2C%20coaxil%2C%20coaxcable,o%20trenza%2C%20que%20sirve%20como
+    • https://es.wikipedia.org/wiki/Fibra_%C3%B3ptica
+    • https://es.wikipedia.org/wiki/Cableado_estructurado#:~:text=El%20cableado%20estructurado%20consiste%20en,Local%20Area%20Network%2C%20LAN).
+    • https://es.wikipedia.org/wiki/Host
+    • https://es.wikipedia.org/wiki/Alojamiento_web
+    • https://fp.uoc.fje.edu/blog/que-es-un-servidor-dns-en-informatica/#:~:text=Un%20Servidor%20DNS%20en%20inform%C3%A1tica%20responde%20a%20las%20siglas%20Domain,al%20que%20vamos%20a%20acceder.
+    • https://es.wikipedia.org/wiki/Dominio_de_Internet
+    • https://es.wikipedia.org/wiki/Direcci%C3%B3n_MAC
+    • https://es.wikipedia.org/wiki/Protocolo_de_resoluci%C3%B3n_de_direcciones#:~:text=En%20red%20de%20computadoras%2C%20el,a%20una%20determinada%20direcci%C3%B3n%20IP.
+    • https://enlacesdelcaribe.com/protocolo-udp-tcp/#:~:text=El%20protocolo%20UDP%20y%20TCP%20es%20el%20nivel%20de%20transporte,de%20direccionamiento%20en%20su%20cabecera.
+    • https://definicion.de/ip/#:~:text=IP%20es%20la%20sigla%20de,red%20que%20re%C3%BAne%20paquetes%20conmutados.&text=Esta%20modalidad%20de%20asignaci%C3%B3n%20es%20conocida%20como%20direcci%C3%B3n%20IP%20din%C3%A1mica.
+    • https://es.wikipedia.org/wiki/IPv4
+    • https://es.wikipedia.org/wiki/IPv6
+    • https://upanama.e-ducativa.com/archivos/repositorio/6000/6126/html/51_proto.htm#:~:text=Protocol%2FInternet%20Protocol)-,5.1%20Protocolo%20TCP%2FIP%20(Transmission%20Control%20Protocol%2FInternet%20Protocol,y%20se%20pronuncia%20%22T%2DC%2DP%2DI%2DP%22.
+    • https://es.wikipedia.org/wiki/Ping
+    • https://qastack.mx/unix/39501/difference-between-ifconfig-and-ipconfig#:~:text=El%20comando%20ifconfig%20se%20usa,en%20el%20sistema%20operativo%20Windows.
+    • https://es.wikipedia.org/wiki/Modelo_TCP/IP
+    • https://es.wikipedia.org/wiki/Ancho_de_banda_(inform%C3%A1tica)
+    • https://techlandia.com/protocolo-enrutado-enrutamiento-sobre_370308/
+    • https://www.significados.com/internet/#:~:text=Internet%20es%20un%20neologismo%20del,a%20trav%C3%A9s%20de%20la%20web.
+    • https://gpcinc.mx/blog/redes-lan-man-wan/
+    • https://es.wikipedia.org/wiki/Wifi#:~:text=El%20wifi%20(escrito%20tambi%C3%A9n%20wi,interconexi%C3%B3n%20inal%C3%A1mbrica%20de%20dispositivos%20electr%C3%B3nicos.
+    • https://es.wikipedia.org/wiki/Algoritmo
+    • https://es.wikipedia.org/wiki/Variable_(matem%C3%A1ticas)
+    • https://es.wikipedia.org/wiki/Constante_(inform%C3%A1tica)
+    • http://carlosgutierrezc.blogspot.com/2012/11/prueba-de-escritorio.html
+    • https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion4/condicional_if.html#:~:text=La%20sentencia%20condicional%20if%20se,cuando%20el%20resultado%20sea%20verdadero.
+    • https://ccia.ugr.es/~jfv/ed1/c/cdrom/cap4/cap43.htm#:~:text=4.3)%20Estructura%20for.,determina%20el%20fin%20del%20bucle.
+    • http://www.utn.edu.ec/reduca/programacion/estructuras/dowhile.html#:~:text=La%20instrucci%C3%B3n%20%22do%2Dwhile%22,expresi%C3%B3n%20relacional%20y%2Fo%20l%C3%B3gica.
+    • https://desarrolloweb.com/articulos/estructura-case-vbscript.html#:~:text=Con%20la%20estructura%20de%20control,un%20n%C3%BAmero%20indeterminado%20de%20valores.
+    • http://pseint.sourceforge.net/
+      
+
+
+
